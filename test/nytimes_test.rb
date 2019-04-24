@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-# require 'minitest/pride'
+require 'minitest/pride'
 require 'pry'
 require './lib/nytimes'
 
